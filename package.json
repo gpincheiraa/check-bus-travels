@@ -1,0 +1,22 @@
+{
+  "name": "medicion_agua_admin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.104/gpincheiraa/MedicionAguaAdmin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "jasmine-spec-reporter": "^2.4.0"
+  },
+  "dependencies": {
+    "nodemailer": "^2.6.4"
+  }
+}
